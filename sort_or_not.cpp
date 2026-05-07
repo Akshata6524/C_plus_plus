@@ -18,7 +18,7 @@ int main(){
         }
     }
     
-    if(flaga==1||flagd==1){
+    if(flaga==1&&flagd==1){
         cout<<"Not Sorted";
     }
     else
